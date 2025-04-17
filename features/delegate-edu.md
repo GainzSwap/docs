@@ -4,6 +4,7 @@ icon: code-pull-request
 
 # Delegate $EDU
 
+<!--
 ## Delegate $EDU
 
 Delegating $EDU is how you contribute to the security and decentralisation of the **EDU Chain** while earning passive income.
@@ -89,4 +90,4 @@ Avoid slashing by:
 
 ***
 
-> _Stake smart. Earn passively. Strengthen the EDU Chain._
+> _Stake smart. Earn passively. Strengthen the EDU Chain._ -->
